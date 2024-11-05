@@ -49,10 +49,3 @@ You can open the notebook directly in Google Colab by clicking the "Open in Cola
 ## License
 
 The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. This project, including the notebook, is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries or support, please contact:
-
-Ryo Kuramoto  
-[ryoh.kuramoto@rknewtech.com](mailto:ryoh.kuramoto@rknewtech.com)
